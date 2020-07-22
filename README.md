@@ -46,7 +46,7 @@
 2. Установить Gulp глобально на ПК. Запускаем терминал от имени администратора и запускаем команду:  
  `npm install --global gulp-cli` 
 3. Скачать все файлы в директорию Вашего проекта. Для этого перейдите в папку с проектом в проводнике и с зажатой клавишей SHIFT нажмите правую клавишу мыши и выберете Терминал(или Power Shell). В консоли введите:  
- `git clone https://github.com/lebedevweb/Gulp4.git`  
+ `git clone https://github.com/lebedevweb/gulp-build-landings.git`  
 4. Установить все модули gulp и node_modules. Перейти в папку gulp  
 `cd gulp`  
 Ввести в терминале команду:  
