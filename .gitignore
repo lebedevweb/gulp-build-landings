@@ -1,0 +1,22 @@
+# Ignore IDE specific files
+.idea/
+.vscode/
+*.sw*
+
+# build
+build/css/
+build/js/
+
+# gulp
+gulp/node_modules/
+gulp/src/js/*
+!gulp/src/js/main.js
+gulp/src/styles/*
+!gulp/src/styles/color.sass
+!gulp/src/styles/navbar.sass
+!gulp/src/styles/style.sass
+
+
+# other
+*.txt
+Thrumb.db
